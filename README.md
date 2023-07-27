@@ -2,6 +2,8 @@
 Offsets for devices using kfd exploit
 
 # List devices:
+### iPhone X (iPhone10,3 and iPhone10,6)
+- iOS 16.5
 ### iPhone 12 Mini (iPhone13,1)
 - iOS 16.6 beta 1
 ### iPhone 13 Pro (iPhone14,2)
