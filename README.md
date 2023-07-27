@@ -12,6 +12,7 @@ Offsets for devices using kfd exploit
 - iOS 16.6 beta 1
 ### iPhone 14 Pro (iPhone15,2)
 - iOS 16.6 beta 1
+- iOS 16.2
 
 
 ### iPad 9th Gen (iPad12,1)
